@@ -1,0 +1,18 @@
+/* Site Variables */
+:root {
+	/* Site  Colors */
+	--primary: #00a15e;
+	--accent: blue;
+	--white: #ffffff;
+	--dark: #181818;
+	--dark: #0c0c0c;
+
+	/* Box Shadow */
+	--boxShadow: 0rem 0.25rem 2.5rem #72727242;
+
+	/* Site Fonts */
+	--sanFrancisco: "San Francisco", sans-serif;
+	--circularStd: "CircularStd-Bold", sans-serif;
+	--sanFranciscoBold: "San Francisco Bold", serif;
+	--arial: Arial, Helvetica, sans-serif;
+}

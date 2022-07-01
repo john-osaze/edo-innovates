@@ -1,0 +1,16 @@
+/* Web Fonts included in the site */
+@font-face {
+	font-family: "CircularStd-Bold";
+	src: url("../../resources/fonts/circular-std/CircularStd-Bold.ttf");
+  }
+  
+  @font-face {
+	font-family: "San Francisco";
+	src: url("../../resources/fonts/san-francisco/SFUIDisplay-Regular.otf");
+  }
+  
+  @font-face {
+	font-family: "San Francisco Bold";
+	src: url("../../resources/fonts/san-francisco/SFUIDisplay-Bold.ttf");
+  }
+  
